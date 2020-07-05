@@ -5,7 +5,7 @@ Whenever anyone will go with this particular project by opening it on a browser,
 All the respective screenshots are stored in the "Images" folder attached with it which will be effective for one's virtual visual simulation and verification.
 
 
-![Screenshot (443)](https://user-images.githubusercontent.com/65014749/86525207-ce659f80-bea1-11ea-9342-78420f82dc94.png)
-![Screenshot (444)](https://user-images.githubusercontent.com/65014749/86525209-d1609000-bea1-11ea-9119-e4ef19c8562f.png)
-![Screenshot (445)](https://user-images.githubusercontent.com/65014749/86525211-d3c2ea00-bea1-11ea-9705-a05ec0f35fa3.png)
-![Screenshot (447)](https://user-images.githubusercontent.com/65014749/86525212-d6254400-bea1-11ea-98b5-e6e4279489dd.png)
+!![Screenshot (462)](https://user-images.githubusercontent.com/65014749/86526993-24454200-beb8-11ea-9ec3-9c61296f4b58.png)
+![Screenshot (463)](https://user-images.githubusercontent.com/65014749/86526995-27403280-beb8-11ea-96e1-19307b1816e2.png)
+![Screenshot (464)](https://user-images.githubusercontent.com/65014749/86526996-29a28c80-beb8-11ea-9b2b-ff366852e234.png)
+
